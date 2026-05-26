@@ -226,6 +226,18 @@ h3 {
   white-space: nowrap;
 }
 
+.quiz-top-actions {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-self: end;
+}
+
+.compact-button {
+  min-height: 38px;
+  padding: 7px 12px;
+}
+
 .question-panel {
   padding: clamp(20px, 4vw, 38px);
 }
@@ -434,6 +446,11 @@ h3 {
 
   .mode-badge {
     justify-self: start;
+  }
+
+  .quiz-top-actions {
+    justify-self: stretch;
+    justify-content: space-between;
   }
 
   .quiz-actions {

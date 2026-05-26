@@ -223,7 +223,10 @@ function renderQuiz() {
           <p class="progress-text">שאלה ${state.currentIndex + 1} מתוך ${questions.length} · נענו ${answeredCount()}</p>
           <div class="progress-bar" aria-hidden="true"><div class="progress-fill" style="--progress: ${progress}%"></div></div>
         </div>
-        <div class="mode-badge">${modeLabel}</div>
+        <div class="quiz-top-actions">
+          <button class="secondary-button compact-button" data-action="restart-current">התחלה מחדש</button>
+          <div class="mode-badge">${modeLabel}</div>
+        </div>
       </header>
       <article class="question-panel">
         <p class="topic">${escapeHtml(question.topic)}</p>
@@ -254,7 +257,6 @@ function renderQuiz() {
         <p class="question-note">${selected ? "התשובה נשמרה. אפשר להמשיך לשאלה הבאה." : "בחר תשובה אחת כדי לראות מיד אם צדקת ואת ההסבר."}</p>
         <div class="quiz-actions">
           <button class="ghost-button" data-action="previous" ${state.currentIndex === 0 ? "disabled" : ""}>שאלה קודמת</button>
-          <button class="secondary-button" data-action="restart-current">התחלה מחדש</button>
           <button class="primary-button" data-action="next" ${selected ? "" : "disabled"}>${state.currentIndex === questions.length - 1 ? "סיום מבחן" : "שאלה הבאה"}</button>
         </div>
       </article>
