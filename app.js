@@ -113,6 +113,7 @@ function resetAll() {
 
 function selectAnswer(optionId) {
   const question = currentQuestion();
+  if (state.answers[question.id]) return;
   state.answers[question.id] = optionId;
   saveState();
   render();
@@ -182,6 +183,8 @@ function renderQuiz() {
   const questions = currentQuestions();
   const question = currentQuestion();
   const selected = state.answers[question.id];
+  const isAnswered = Boolean(selected);
+  const isCorrect = selected === question.correctOptionId;
   const progress = Math.round(((state.currentIndex + 1) / questions.length) * 100);
   const modeLabel = state.mode === "mistakes" ? "תרגול טעויות" : "מבחן מלא";
 
@@ -198,16 +201,28 @@ function renderQuiz() {
         <p class="topic">${escapeHtml(question.topic)}</p>
         <h2 class="question-text">${escapeHtml(question.question)}</h2>
         <ul class="options">
-          ${question.options.map((option) => `
+          ${question.options.map((option) => {
+            const isSelected = selected === option.id;
+            const isRightOption = option.id === question.correctOptionId;
+            const feedbackClass = isAnswered && isRightOption ? "correct" : isAnswered && isSelected ? "incorrect" : "";
+            return `
             <li>
-              <button class="option-button ${selected === option.id ? "selected" : ""}" data-action="answer" data-option-id="${escapeHtml(option.id)}" aria-pressed="${selected === option.id}">
+              <button class="option-button ${isSelected ? "selected" : ""} ${feedbackClass}" data-action="answer" data-option-id="${escapeHtml(option.id)}" aria-pressed="${isSelected}">
                 <span class="option-letter">${escapeHtml(option.id)}</span>
                 <span>${escapeHtml(option.text)}</span>
               </button>
             </li>
-          `).join("")}
+          `;
+          }).join("")}
         </ul>
-        <p class="question-note">${selected ? "אפשר לשנות תשובה לפני המעבר לשאלה הבאה." : "בחר תשובה אחת כדי להמשיך."}</p>
+        ${isAnswered ? `
+          <section class="feedback-panel ${isCorrect ? "is-correct" : "is-wrong"}" role="status">
+            <h3>${isCorrect ? "נכון מאוד" : "לא נכון"}</h3>
+            ${isCorrect ? "" : `<p>התשובה הנכונה: <strong>${escapeHtml(optionText(question, question.correctOptionId))}</strong></p>`}
+            ${question.explanation ? `<p>${escapeHtml(question.explanation)}</p>` : ""}
+          </section>
+        ` : ""}
+        <p class="question-note">${selected ? "התשובה נשמרה. אפשר להמשיך לשאלה הבאה." : "בחר תשובה אחת כדי לראות מיד אם צדקת ואת ההסבר."}</p>
         <div class="quiz-actions">
           <button class="ghost-button" data-action="previous" ${state.currentIndex === 0 ? "disabled" : ""}>שאלה קודמת</button>
           <button class="primary-button" data-action="next" ${selected ? "" : "disabled"}>${state.currentIndex === questions.length - 1 ? "סיום מבחן" : "שאלה הבאה"}</button>

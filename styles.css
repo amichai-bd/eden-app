@@ -276,6 +276,26 @@ h3 {
   border-color: var(--brand-2);
 }
 
+.option-button.correct {
+  background: #edf8f2;
+  border-color: var(--ok);
+  box-shadow: 0 0 0 3px rgba(23, 110, 71, 0.14);
+}
+
+.option-button.incorrect {
+  background: #fff1ef;
+  border-color: var(--bad);
+  box-shadow: 0 0 0 3px rgba(180, 35, 24, 0.12);
+}
+
+.option-button.correct .option-letter {
+  background: var(--ok);
+}
+
+.option-button.incorrect .option-letter {
+  background: var(--bad);
+}
+
 .option-letter {
   display: inline-grid;
   place-items: center;
@@ -294,6 +314,44 @@ h3 {
 .question-note {
   margin: 14px 0 0;
   color: var(--muted);
+}
+
+.feedback-panel {
+  margin-top: 18px;
+  padding: 16px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+
+.feedback-panel h3 {
+  margin-bottom: 8px;
+}
+
+.feedback-panel p {
+  margin-bottom: 8px;
+  line-height: 1.6;
+}
+
+.feedback-panel p:last-child {
+  margin-bottom: 0;
+}
+
+.feedback-panel.is-correct {
+  background: #edf8f2;
+  border-color: rgba(23, 110, 71, 0.35);
+}
+
+.feedback-panel.is-correct h3 {
+  color: var(--ok);
+}
+
+.feedback-panel.is-wrong {
+  background: #fff1ef;
+  border-color: rgba(180, 35, 24, 0.35);
+}
+
+.feedback-panel.is-wrong h3 {
+  color: var(--bad);
 }
 
 .score-line {
