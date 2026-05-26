@@ -6,6 +6,7 @@ const state = {
   activeIds: [],
   currentIndex: 0,
   answers: {},
+  optionOrders: {},
   mode: "full",
   screen: "home",
 };
@@ -33,6 +34,7 @@ function saveState() {
     activeIds: state.activeIds,
     currentIndex: state.currentIndex,
     answers: state.answers,
+    optionOrders: state.optionOrders,
     mode: state.mode,
     screen: state.screen,
   };
@@ -49,6 +51,7 @@ function loadSavedState() {
     state.activeIds = saved.activeIds;
     state.currentIndex = Math.min(saved.currentIndex || 0, saved.activeIds.length - 1);
     state.answers = saved.answers || {};
+    state.optionOrders = saved.optionOrders || createOptionOrders(saved.activeIds);
     state.mode = saved.mode || "full";
     state.screen = saved.screen || "home";
     return true;
@@ -85,10 +88,34 @@ function correctCount(scope = currentQuestions()) {
   return scope.filter((question) => state.answers[question.id] === question.correctOptionId).length;
 }
 
+function shuffle(values) {
+  const shuffled = [...values];
+  for (let index = shuffled.length - 1; index > 0; index -= 1) {
+    const swapIndex = Math.floor(Math.random() * (index + 1));
+    [shuffled[index], shuffled[swapIndex]] = [shuffled[swapIndex], shuffled[index]];
+  }
+  return shuffled;
+}
+
+function createOptionOrders(questionIds) {
+  const byId = new Map(state.questions.map((question) => [question.id, question]));
+  return Object.fromEntries(questionIds.map((questionId) => {
+    const question = byId.get(questionId);
+    return [questionId, shuffle(question.options.map((option) => option.id))];
+  }));
+}
+
+function orderedOptions(question) {
+  const byOptionId = new Map(question.options.map((option) => [option.id, option]));
+  const order = state.optionOrders[question.id] || question.options.map((option) => option.id);
+  return order.map((optionId) => byOptionId.get(optionId)).filter(Boolean);
+}
+
 function startQuiz(ids, mode) {
   state.activeIds = ids;
   state.currentIndex = 0;
   state.answers = {};
+  state.optionOrders = createOptionOrders(ids);
   state.mode = mode;
   state.screen = "quiz";
   saveState();
@@ -106,6 +133,7 @@ function resetAll() {
   state.activeIds = [];
   state.currentIndex = 0;
   state.answers = {};
+  state.optionOrders = {};
   state.mode = "full";
   state.screen = "home";
   render();
@@ -201,14 +229,15 @@ function renderQuiz() {
         <p class="topic">${escapeHtml(question.topic)}</p>
         <h2 class="question-text">${escapeHtml(question.question)}</h2>
         <ul class="options">
-          ${question.options.map((option) => {
+          ${orderedOptions(question).map((option, displayIndex) => {
             const isSelected = selected === option.id;
             const isRightOption = option.id === question.correctOptionId;
             const feedbackClass = isAnswered && isRightOption ? "correct" : isAnswered && isSelected ? "incorrect" : "";
+            const displayLetter = String.fromCharCode(65 + displayIndex);
             return `
             <li>
               <button class="option-button ${isSelected ? "selected" : ""} ${feedbackClass}" data-action="answer" data-option-id="${escapeHtml(option.id)}" aria-pressed="${isSelected}">
-                <span class="option-letter">${escapeHtml(option.id)}</span>
+                <span class="option-letter">${displayLetter}</span>
                 <span>${escapeHtml(option.text)}</span>
               </button>
             </li>
