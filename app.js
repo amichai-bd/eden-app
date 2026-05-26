@@ -254,6 +254,7 @@ function renderQuiz() {
         <p class="question-note">${selected ? "התשובה נשמרה. אפשר להמשיך לשאלה הבאה." : "בחר תשובה אחת כדי לראות מיד אם צדקת ואת ההסבר."}</p>
         <div class="quiz-actions">
           <button class="ghost-button" data-action="previous" ${state.currentIndex === 0 ? "disabled" : ""}>שאלה קודמת</button>
+          <button class="secondary-button" data-action="restart-current">התחלה מחדש</button>
           <button class="primary-button" data-action="next" ${selected ? "" : "disabled"}>${state.currentIndex === questions.length - 1 ? "סיום מבחן" : "שאלה הבאה"}</button>
         </div>
       </article>
@@ -335,6 +336,10 @@ app.addEventListener("click", (event) => {
   }
   if (action === "retry-wrong") {
     startQuiz(wrongAnswers().map((question) => question.id), "mistakes");
+  }
+  if (action === "restart-current") {
+    const ids = state.mode === "mistakes" && state.activeIds.length ? [...state.activeIds] : state.questions.map((question) => question.id);
+    startQuiz(ids, state.mode);
   }
   if (action === "reset") {
     resetAll();
