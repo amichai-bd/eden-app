@@ -1,0 +1,3513 @@
+{
+  "metadata": {
+    "title": "מאגר שאלות ללימוד ברכות ותפילה",
+    "totalQuestions": 125,
+    "pages": 25,
+    "questionsPerPage": 5,
+    "language": "he",
+    "correctOptionIndexBase": 0,
+    "notes": "כל שאלה כוללת 4 אפשרויות, תשובה נכונה אחת והסבר קצר."
+  },
+  "questions": [
+    {
+      "id": "p01_q1",
+      "page": 1,
+      "topic": "ברכת אשר יצר / תחילת מאכלים בסעודה",
+      "questionNumberOnPage": 1,
+      "question": "מה עיקר השבח בברכת אשר יצר?",
+      "options": [
+        {
+          "id": "A",
+          "text": "שה' ברא את גוף האדם בחכמה נפלאה"
+        },
+        {
+          "id": "B",
+          "text": "שה' נתן לנו לחם לאכול"
+        },
+        {
+          "id": "C",
+          "text": "שה' נתן את התורה"
+        },
+        {
+          "id": "D",
+          "text": "שה' ברא את הפירות"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "הברכה משבחת את ה' על יצירת גוף האדם ותפקודו."
+    },
+    {
+      "id": "p01_q2",
+      "page": 1,
+      "topic": "ברכת אשר יצר / תחילת מאכלים בסעודה",
+      "questionNumberOnPage": 2,
+      "question": "מתי מברכים אשר יצר?",
+      "options": [
+        {
+          "id": "A",
+          "text": "אחרי עשיית צרכים ונטילת ידיים"
+        },
+        {
+          "id": "B",
+          "text": "רק בבוקר"
+        },
+        {
+          "id": "C",
+          "text": "רק אחרי לחם"
+        },
+        {
+          "id": "D",
+          "text": "רק לפני שינה"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "הברכה נאמרת לאחר עשיית צרכים."
+    },
+    {
+      "id": "p01_q3",
+      "page": 1,
+      "topic": "ברכת אשר יצר / תחילת מאכלים בסעודה",
+      "questionNumberOnPage": 3,
+      "question": "מי שעשה צרכיו ושכח לברך מיד — מה יעשה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "יברך כשנזכר אם עדיין שייך למעשה"
+        },
+        {
+          "id": "B",
+          "text": "לא יברך כלל"
+        },
+        {
+          "id": "C",
+          "text": "יברך רק למחרת"
+        },
+        {
+          "id": "D",
+          "text": "יברך רק אם אכל"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "אם נזכר בזמן סביר עדיין יכול לברך."
+    },
+    {
+      "id": "p01_q4",
+      "page": 1,
+      "topic": "ברכת אשר יצר / תחילת מאכלים בסעודה",
+      "questionNumberOnPage": 4,
+      "question": "מדוע הלחם נחשב עיקר הסעודה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "כי שאר מאכלי הסעודה טפלים לו"
+        },
+        {
+          "id": "B",
+          "text": "כי הוא מתוק"
+        },
+        {
+          "id": "C",
+          "text": "כי אוכלים אותו רק בשבת"
+        },
+        {
+          "id": "D",
+          "text": "כי אין לו ברכה אחרונה"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "הלחם הוא עיקר המזון בסעודה."
+    },
+    {
+      "id": "p01_q5",
+      "page": 1,
+      "topic": "ברכת אשר יצר / תחילת מאכלים בסעודה",
+      "questionNumberOnPage": 5,
+      "question": "מה דין מאכלים שהם חלק מעיקר הסעודה לאחר המוציא?",
+      "options": [
+        {
+          "id": "A",
+          "text": "בדרך כלל אינם צריכים ברכה נפרדת"
+        },
+        {
+          "id": "B",
+          "text": "מברכים על כל אחד"
+        },
+        {
+          "id": "C",
+          "text": "מברכים רק שהכל"
+        },
+        {
+          "id": "D",
+          "text": "מברכים רק ברכה אחרונה"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "המוציא וברכת המזון פוטרים את מאכלי הסעודה."
+    },
+    {
+      "id": "p02_q1",
+      "page": 2,
+      "topic": "ברכות השחר",
+      "questionNumberOnPage": 1,
+      "question": "מה מטרת ברכות השחר?",
+      "options": [
+        {
+          "id": "A",
+          "text": "להודות לה' על חסדי היום־יום"
+        },
+        {
+          "id": "B",
+          "text": "לבקש סליחה בלבד"
+        },
+        {
+          "id": "C",
+          "text": "לברך על לחם"
+        },
+        {
+          "id": "D",
+          "text": "להחליף שמונה עשרה"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "הברכות מודות על יכולות וחסדים רגילים."
+    },
+    {
+      "id": "p02_q2",
+      "page": 2,
+      "topic": "ברכות השחר",
+      "questionNumberOnPage": 2,
+      "question": "מדוע מברכים גם על דברים פשוטים כמו ראייה וקימה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "כי גם הם חסדי ה'"
+        },
+        {
+          "id": "B",
+          "text": "כי הם נדירים"
+        },
+        {
+          "id": "C",
+          "text": "כי אין ברכות אחרות"
+        },
+        {
+          "id": "D",
+          "text": "כי חייבים רק בציבור"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "הברכות מחנכות להכיר טובה על הדברים הרגילים."
+    },
+    {
+      "id": "p02_q3",
+      "page": 2,
+      "topic": "ברכות השחר",
+      "questionNumberOnPage": 3,
+      "question": "כיצד נוהגים כיום בברכות השחר?",
+      "options": [
+        {
+          "id": "A",
+          "text": "אומרים אותן ברצף לאחר ההתארגנות או בבית הכנסת"
+        },
+        {
+          "id": "B",
+          "text": "אומרים כל ברכה בזמן המדויק בלבד"
+        },
+        {
+          "id": "C",
+          "text": "לא אומרים אותן"
+        },
+        {
+          "id": "D",
+          "text": "אומרים רק שלוש"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "בימינו לרוב מסדרים אותן יחד."
+    },
+    {
+      "id": "p02_q4",
+      "page": 2,
+      "topic": "ברכות השחר",
+      "questionNumberOnPage": 4,
+      "question": "מדוע גם מי שלא נהנה אישית יכול לברך?",
+      "options": [
+        {
+          "id": "A",
+          "text": "כי זו הודאה כללית על צרכי האדם"
+        },
+        {
+          "id": "B",
+          "text": "כי אין ברכה לבטלה"
+        },
+        {
+          "id": "C",
+          "text": "כי רק הציבור מברך"
+        },
+        {
+          "id": "D",
+          "text": "כי הוא מברך במקום אחר"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "ברכות השחר הן הודאה כללית."
+    },
+    {
+      "id": "p02_q5",
+      "page": 2,
+      "topic": "ברכות השחר",
+      "questionNumberOnPage": 5,
+      "question": "איזו ברכה קשורה לראייה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "פוקח עורים"
+        },
+        {
+          "id": "B",
+          "text": "מתיר אסורים"
+        },
+        {
+          "id": "C",
+          "text": "רוקע הארץ"
+        },
+        {
+          "id": "D",
+          "text": "המכין מצעדי גבר"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "פוקח עורים עוסקת ביכולת לראות."
+    },
+    {
+      "id": "p03_q1",
+      "page": 3,
+      "topic": "המשך ברכות השחר / מאה ברכות",
+      "questionNumberOnPage": 1,
+      "question": "מי ששכח לברך ברכות השחר לפני התפילה — מה הדין?",
+      "options": [
+        {
+          "id": "A",
+          "text": "יכול להשלים חלק מהברכות לאחר התפילה"
+        },
+        {
+          "id": "B",
+          "text": "אינו יכול לברך כלל"
+        },
+        {
+          "id": "C",
+          "text": "חייב לחזור להתפלל"
+        },
+        {
+          "id": "D",
+          "text": "מברך רק שהכל"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "חלק מהברכות ניתנות להשלמה לאחר התפילה."
+    },
+    {
+      "id": "p03_q2",
+      "page": 3,
+      "topic": "המשך ברכות השחר / מאה ברכות",
+      "questionNumberOnPage": 2,
+      "question": "כמה ברכות לפחות יש להשתדל לברך בכל יום?",
+      "options": [
+        {
+          "id": "A",
+          "text": "מאה"
+        },
+        {
+          "id": "B",
+          "text": "עשר"
+        },
+        {
+          "id": "C",
+          "text": "שלושים"
+        },
+        {
+          "id": "D",
+          "text": "אלף"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "יש עניין להגיע למאה ברכות בכל יום."
+    },
+    {
+      "id": "p03_q3",
+      "page": 3,
+      "topic": "המשך ברכות השחר / מאה ברכות",
+      "questionNumberOnPage": 3,
+      "question": "באילו אמצעים מגיעים למאה ברכות ביום חול?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ברכות השחר, תפילות, קריאת שמע, הנהנין וברכת המזון"
+        },
+        {
+          "id": "B",
+          "text": "רק ברכת המזון"
+        },
+        {
+          "id": "C",
+          "text": "רק ברכות הריח"
+        },
+        {
+          "id": "D",
+          "text": "רק אשר יצר"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "צירוף הברכות הקבועות מביא למאה."
+    },
+    {
+      "id": "p03_q4",
+      "page": 3,
+      "topic": "המשך ברכות השחר / מאה ברכות",
+      "questionNumberOnPage": 4,
+      "question": "מדוע בשבת צריך לעיתים להוסיף ברכות?",
+      "options": [
+        {
+          "id": "A",
+          "text": "כי בתפילת העמידה של שבת יש פחות ברכות"
+        },
+        {
+          "id": "B",
+          "text": "כי אין תפילה בשבת"
+        },
+        {
+          "id": "C",
+          "text": "כי אין ברכות השחר"
+        },
+        {
+          "id": "D",
+          "text": "כי אסור לברך ברכת המזון"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "העמידה בשבת קצרה יותר ולכן חסרות ברכות."
+    },
+    {
+      "id": "p03_q5",
+      "page": 3,
+      "topic": "המשך ברכות השחר / מאה ברכות",
+      "questionNumberOnPage": 5,
+      "question": "איך אפשר להשלים ברכות חסרות בשבת?",
+      "options": [
+        {
+          "id": "A",
+          "text": "באכילת פירות והרחת בשמים עם ברכות"
+        },
+        {
+          "id": "B",
+          "text": "באמירת אותה ברכה שוב"
+        },
+        {
+          "id": "C",
+          "text": "בברכה בלי הנאה"
+        },
+        {
+          "id": "D",
+          "text": "בהחלפת נוסח התפילה"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "מוסיפים ברכות תקינות על הנאות אמיתיות."
+    },
+    {
+      "id": "p04_q1",
+      "page": 4,
+      "topic": "כוונה בתפילת שמונה עשרה",
+      "questionNumberOnPage": 1,
+      "question": "כיצד צריך לעמוד לתפילת שמונה עשרה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "מתוך כובד ראש והכנה"
+        },
+        {
+          "id": "B",
+          "text": "מתוך קלות ראש"
+        },
+        {
+          "id": "C",
+          "text": "תוך כדי מלאכה"
+        },
+        {
+          "id": "D",
+          "text": "רק בבית הכנסת"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "התפילה דורשת רצינות והכנת הלב."
+    },
+    {
+      "id": "p04_q2",
+      "page": 4,
+      "topic": "כוונה בתפילת שמונה עשרה",
+      "questionNumberOnPage": 2,
+      "question": "על מה ראוי לחשוב לפני התפילה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "על גדלות ה' ושפלות האדם"
+        },
+        {
+          "id": "B",
+          "text": "על עסקים"
+        },
+        {
+          "id": "C",
+          "text": "על משחקים"
+        },
+        {
+          "id": "D",
+          "text": "על אוכל בלבד"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "מחשבות אלו מכינות את הלב לתפילה."
+    },
+    {
+      "id": "p04_q3",
+      "page": 4,
+      "topic": "כוונה בתפילת שמונה עשרה",
+      "questionNumberOnPage": 3,
+      "question": "מה יעשה מי שמחשבה זרה מטרידה אותו בתפילה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "יפסיק עד שתתבטל המחשבה"
+        },
+        {
+          "id": "B",
+          "text": "ימשיך בלי לשים לב"
+        },
+        {
+          "id": "C",
+          "text": "יפסיק לגמרי"
+        },
+        {
+          "id": "D",
+          "text": "יאמר ברכת המזון"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "יש להסיר מחשבה המפריעה לכוונה."
+    },
+    {
+      "id": "p04_q4",
+      "page": 4,
+      "topic": "כוונה בתפילת שמונה עשרה",
+      "questionNumberOnPage": 4,
+      "question": "מתוך איזו תחושה אין להתפלל?",
+      "options": [
+        {
+          "id": "A",
+          "text": "עצבות"
+        },
+        {
+          "id": "B",
+          "text": "יראה"
+        },
+        {
+          "id": "C",
+          "text": "הכנעה"
+        },
+        {
+          "id": "D",
+          "text": "שמחה של מצווה"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "התפילה צריכה להיות ביראה אך לא בעצבות."
+    },
+    {
+      "id": "p04_q5",
+      "page": 4,
+      "topic": "כוונה בתפילת שמונה עשרה",
+      "questionNumberOnPage": 5,
+      "question": "לפי רבי יוסי ברבי חנינא, מי תיקן את התפילות?",
+      "options": [
+        {
+          "id": "A",
+          "text": "האבות"
+        },
+        {
+          "id": "B",
+          "text": "המלכים בלבד"
+        },
+        {
+          "id": "C",
+          "text": "הנביאים האחרונים בלבד"
+        },
+        {
+          "id": "D",
+          "text": "אנשי כנסת הגדולה בלבד"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "שחרית, מנחה וערבית נלמדות מן האבות."
+    },
+    {
+      "id": "p05_q1",
+      "page": 5,
+      "topic": "תפילות כנגד קרבנות והנהגות בתפילה",
+      "questionNumberOnPage": 1,
+      "question": "לפי רבי יהושע בן לוי, כנגד מה תוקנו התפילות?",
+      "options": [
+        {
+          "id": "A",
+          "text": "כנגד הקרבנות"
+        },
+        {
+          "id": "B",
+          "text": "כנגד שלוש סעודות"
+        },
+        {
+          "id": "C",
+          "text": "כנגד שלוש רגלים"
+        },
+        {
+          "id": "D",
+          "text": "כנגד ברכות השחר"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "התפילות מקבילות לעבודת הקרבנות."
+    },
+    {
+      "id": "p05_q2",
+      "page": 5,
+      "topic": "תפילות כנגד קרבנות והנהגות בתפילה",
+      "questionNumberOnPage": 2,
+      "question": "מדוע תפילת העמידה דומה לקרבן?",
+      "options": [
+        {
+          "id": "A",
+          "text": "כי היא באה במקום עבודת הקרבנות"
+        },
+        {
+          "id": "B",
+          "text": "כי נאמרת רק במקדש"
+        },
+        {
+          "id": "C",
+          "text": "כי רק כהנים אומרים אותה"
+        },
+        {
+          "id": "D",
+          "text": "כי מברכים עליה המוציא"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "לאחר החורבן התפילה ממלאת תפקיד מרכזי במקום הקרבן."
+    },
+    {
+      "id": "p05_q3",
+      "page": 5,
+      "topic": "תפילות כנגד קרבנות והנהגות בתפילה",
+      "questionNumberOnPage": 3,
+      "question": "למה אין להחזיק חפץ בשמונה עשרה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "כי הוא מסיח את הדעת"
+        },
+        {
+          "id": "B",
+          "text": "כי החפץ מתקדש"
+        },
+        {
+          "id": "C",
+          "text": "כי אסור להחזיק דבר בבית הכנסת"
+        },
+        {
+          "id": "D",
+          "text": "כי צריך להחזיק ספר תורה"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "האדם טרוד שלא ייפול החפץ."
+    },
+    {
+      "id": "p05_q4",
+      "page": 5,
+      "topic": "תפילות כנגד קרבנות והנהגות בתפילה",
+      "questionNumberOnPage": 4,
+      "question": "איזה חפץ מותר להחזיק כי הוא מסייע לתפילה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "סידור"
+        },
+        {
+          "id": "B",
+          "text": "אוכל"
+        },
+        {
+          "id": "C",
+          "text": "כלי עבודה"
+        },
+        {
+          "id": "D",
+          "text": "צעצוע"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "הסידור משמש לצורך התפילה."
+    },
+    {
+      "id": "p05_q5",
+      "page": 5,
+      "topic": "תפילות כנגד קרבנות והנהגות בתפילה",
+      "questionNumberOnPage": 5,
+      "question": "כיצד יש לומר את מילות התפילה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "בשפתיים ובלחש הנשמע לאוזניו"
+        },
+        {
+          "id": "B",
+          "text": "בלב בלבד"
+        },
+        {
+          "id": "C",
+          "text": "בצעקה תמיד"
+        },
+        {
+          "id": "D",
+          "text": "במחשבה בלבד"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "יש לבטא את המילים, אך לא להפריע לציבור."
+    },
+    {
+      "id": "p06_q1",
+      "page": 6,
+      "topic": "מעבר וישיבה ליד מתפלל",
+      "questionNumberOnPage": 1,
+      "question": "מדוע אסור לעבור לפני מתפלל שמונה עשרה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "כי זה מפריע לכוונתו"
+        },
+        {
+          "id": "B",
+          "text": "כי אסור ללכת בבית הכנסת"
+        },
+        {
+          "id": "C",
+          "text": "כי המתפלל צריך לראותו"
+        },
+        {
+          "id": "D",
+          "text": "כי זה מבטל ברכה"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "מעבר לפניו מסיח את דעתו."
+    },
+    {
+      "id": "p06_q2",
+      "page": 6,
+      "topic": "מעבר וישיבה ליד מתפלל",
+      "questionNumberOnPage": 2,
+      "question": "מהו המרחק האסור למעבר לפני מתפלל?",
+      "options": [
+        {
+          "id": "A",
+          "text": "פחות מארבע אמות"
+        },
+        {
+          "id": "B",
+          "text": "מאה מטרים"
+        },
+        {
+          "id": "C",
+          "text": "אמה אחת בלבד"
+        },
+        {
+          "id": "D",
+          "text": "אין שיעור"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "הדין המובא הוא ארבע אמות."
+    },
+    {
+      "id": "p06_q3",
+      "page": 6,
+      "topic": "מעבר וישיבה ליד מתפלל",
+      "questionNumberOnPage": 3,
+      "question": "מה הדין לגבי ישיבה ליד מתפלל?",
+      "options": [
+        {
+          "id": "A",
+          "text": "אסור לשבת בתוך ארבע אמות סביבו, לפי הדין המובא"
+        },
+        {
+          "id": "B",
+          "text": "מותר תמיד"
+        },
+        {
+          "id": "C",
+          "text": "אסור רק מאחוריו"
+        },
+        {
+          "id": "D",
+          "text": "מותר אם הוא חבר"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "הישיבה בקרבת המתפלל פוגעת בכבוד התפילה או בכוונתו."
+    },
+    {
+      "id": "p06_q4",
+      "page": 6,
+      "topic": "מעבר וישיבה ליד מתפלל",
+      "questionNumberOnPage": 4,
+      "question": "מתי ייתכן שמותר לשבת ליד מתפלל?",
+      "options": [
+        {
+          "id": "A",
+          "text": "כשעוסק בתפילה/תורה או שקשה לו לעמוד"
+        },
+        {
+          "id": "B",
+          "text": "כשרוצה לנוח סתם"
+        },
+        {
+          "id": "C",
+          "text": "כשאוכל"
+        },
+        {
+          "id": "D",
+          "text": "כשמדבר בשקט"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "אז אין הדבר נראה כזלזול או שיש צורך."
+    },
+    {
+      "id": "p06_q5",
+      "page": 6,
+      "topic": "מעבר וישיבה ליד מתפלל",
+      "questionNumberOnPage": 5,
+      "question": "מהו טעם נוסף לאיסור ישיבה ליד מתפלל?",
+      "options": [
+        {
+          "id": "A",
+          "text": "שזה מפריע למתפלל"
+        },
+        {
+          "id": "B",
+          "text": "שזה גורם לברכה לבטלה"
+        },
+        {
+          "id": "C",
+          "text": "שזה משנה נוסח"
+        },
+        {
+          "id": "D",
+          "text": "שזה מחייב קדיש"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "יש דעה שהטעם הוא הפרעה לריכוז."
+    },
+    {
+      "id": "p07_q1",
+      "page": 7,
+      "topic": "תפילת שמונה עשרה — מבנה",
+      "questionNumberOnPage": 1,
+      "question": "מדוע תפילת שמונה עשרה נקראת כך?",
+      "options": [
+        {
+          "id": "A",
+          "text": "כי במקורה היו בה שמונה עשרה ברכות"
+        },
+        {
+          "id": "B",
+          "text": "כי יש בה שמונה עשרה פסוקים"
+        },
+        {
+          "id": "C",
+          "text": "כי נאמרת מגיל 18"
+        },
+        {
+          "id": "D",
+          "text": "כי נאמרת 18 פעמים ביום"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "השם נשאר אף שכיום נוספה ברכה."
+    },
+    {
+      "id": "p07_q2",
+      "page": 7,
+      "topic": "תפילת שמונה עשרה — מבנה",
+      "questionNumberOnPage": 2,
+      "question": "איזו ברכה נוספה מאוחר יותר?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ברכת המינים"
+        },
+        {
+          "id": "B",
+          "text": "ברכת המזון"
+        },
+        {
+          "id": "C",
+          "text": "אשר יצר"
+        },
+        {
+          "id": "D",
+          "text": "ברכת הריח"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "שמואל הקטן תיקן את ברכת המינים."
+    },
+    {
+      "id": "p07_q3",
+      "page": 7,
+      "topic": "תפילת שמונה עשרה — מבנה",
+      "questionNumberOnPage": 3,
+      "question": "מדוע נקבע נוסח קבוע לתפילה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "כדי שכל אחד יוכל להתפלל בלשון ברורה ומסודרת"
+        },
+        {
+          "id": "B",
+          "text": "כדי לבטל תפילה אישית"
+        },
+        {
+          "id": "C",
+          "text": "כדי להתפלל רק בארמית"
+        },
+        {
+          "id": "D",
+          "text": "כדי לא להתפלל"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "בעקבות קשיי הלשון בגלות נקבע נוסח מסודר."
+    },
+    {
+      "id": "p07_q4",
+      "page": 7,
+      "topic": "תפילת שמונה עשרה — מבנה",
+      "questionNumberOnPage": 4,
+      "question": "מהו החלק הראשון בתפילת שמונה עשרה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "שלוש ברכות שבח"
+        },
+        {
+          "id": "B",
+          "text": "ברכת המזון"
+        },
+        {
+          "id": "C",
+          "text": "בקשות אישיות בלבד"
+        },
+        {
+          "id": "D",
+          "text": "ברכות הריח"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "החלק הראשון עוסק בשבח ה'."
+    },
+    {
+      "id": "p07_q5",
+      "page": 7,
+      "topic": "תפילת שמונה עשרה — מבנה",
+      "questionNumberOnPage": 5,
+      "question": "מהו החלק האחרון בתפילת שמונה עשרה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "עבודה, הודאה ושלום"
+        },
+        {
+          "id": "B",
+          "text": "ברכות הנהנין"
+        },
+        {
+          "id": "C",
+          "text": "קריאת שמע"
+        },
+        {
+          "id": "D",
+          "text": "אשר יצר"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "אלו ברכות הסיום והפרידה מה'."
+    },
+    {
+      "id": "p08_q1",
+      "page": 8,
+      "topic": "כריעות בתפילת העמידה",
+      "questionNumberOnPage": 1,
+      "question": "כמה פעמים כורעים בתפילת העמידה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ארבע"
+        },
+        {
+          "id": "B",
+          "text": "אחת"
+        },
+        {
+          "id": "C",
+          "text": "שתיים"
+        },
+        {
+          "id": "D",
+          "text": "עשר"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "כורעים בתחילה ובסוף של אבות ומודים."
+    },
+    {
+      "id": "p08_q2",
+      "page": 8,
+      "topic": "כריעות בתפילת העמידה",
+      "questionNumberOnPage": 2,
+      "question": "מתי כורעים בברכת אבות?",
+      "options": [
+        {
+          "id": "A",
+          "text": "בתחילתה ובסופה"
+        },
+        {
+          "id": "B",
+          "text": "רק בסוף"
+        },
+        {
+          "id": "C",
+          "text": "רק באמצע"
+        },
+        {
+          "id": "D",
+          "text": "לא כורעים"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "אלו שתי כריעות מתוך הארבע."
+    },
+    {
+      "id": "p08_q3",
+      "page": 8,
+      "topic": "כריעות בתפילת העמידה",
+      "questionNumberOnPage": 3,
+      "question": "מתי מזדקפים מהכריעה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "בהזכרת שם ה'"
+        },
+        {
+          "id": "B",
+          "text": "במילה ברוך"
+        },
+        {
+          "id": "C",
+          "text": "רק בסוף התפילה"
+        },
+        {
+          "id": "D",
+          "text": "לפני הברכה"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "כורעים בברוך ומזדקפים בשם ה'."
+    },
+    {
+      "id": "p08_q4",
+      "page": 8,
+      "topic": "כריעות בתפילת העמידה",
+      "questionNumberOnPage": 4,
+      "question": "כיצד יש לכרוע?",
+      "options": [
+        {
+          "id": "A",
+          "text": "כריעה ניכרת עם הטיית הגוף והראש"
+        },
+        {
+          "id": "B",
+          "text": "בלי להזיז את הראש"
+        },
+        {
+          "id": "C",
+          "text": "בעיניים עצומות בלבד"
+        },
+        {
+          "id": "D",
+          "text": "תוך ישיבה"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "הכריעה צריכה להיות מורגשת ומכובדת."
+    },
+    {
+      "id": "p08_q5",
+      "page": 8,
+      "topic": "כריעות בתפילת העמידה",
+      "questionNumberOnPage": 5,
+      "question": "מה משמעות הכריעה באבות ובמודים?",
+      "options": [
+        {
+          "id": "A",
+          "text": "כניסה לפני המלך והודאה"
+        },
+        {
+          "id": "B",
+          "text": "כי הן הכי ארוכות"
+        },
+        {
+          "id": "C",
+          "text": "כי אין עונים בהן אמן"
+        },
+        {
+          "id": "D",
+          "text": "כי אינן חלק מהתפילה"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "אבות מבטאת עמידה לפני המלך ומודים מבטאת הודאה."
+    },
+    {
+      "id": "p09_q1",
+      "page": 9,
+      "topic": "חזרת הש״ץ",
+      "questionNumberOnPage": 1,
+      "question": "מדוע תיקנו חזרת הש״ץ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "להוציא ידי חובה מי שאינו יודע להתפלל"
+        },
+        {
+          "id": "B",
+          "text": "לקצר את התפילה"
+        },
+        {
+          "id": "C",
+          "text": "לבטל תפילת לחש"
+        },
+        {
+          "id": "D",
+          "text": "לומר ברכת המזון"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "במקור החזרה סייעה למי שלא ידע להתפלל."
+    },
+    {
+      "id": "p09_q2",
+      "page": 9,
+      "topic": "חזרת הש״ץ",
+      "questionNumberOnPage": 2,
+      "question": "מדוע ממשיכים לומר חזרת הש״ץ גם כיום?",
+      "options": [
+        {
+          "id": "A",
+          "text": "כדי לקיים תקנת חכמים ולומר קטעים מיוחדים"
+        },
+        {
+          "id": "B",
+          "text": "כי לחש אינו מועיל"
+        },
+        {
+          "id": "C",
+          "text": "כי אסור להתפלל לבד"
+        },
+        {
+          "id": "D",
+          "text": "כי החזן חייב פעמיים לעצמו"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "בחזרה נאמרים קדושה, מודים דרבנן וברכת כהנים."
+    },
+    {
+      "id": "p09_q3",
+      "page": 9,
+      "topic": "חזרת הש״ץ",
+      "questionNumberOnPage": 3,
+      "question": "מה חובת הציבור בחזרת הש״ץ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "להקשיב, לכוון ולענות אמן"
+        },
+        {
+          "id": "B",
+          "text": "לדבר בשקט"
+        },
+        {
+          "id": "C",
+          "text": "לצאת החוצה"
+        },
+        {
+          "id": "D",
+          "text": "לקרוא דברים אחרים"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "הציבור צריך להשתתף בעניית אמן."
+    },
+    {
+      "id": "p09_q4",
+      "page": 9,
+      "topic": "חזרת הש״ץ",
+      "questionNumberOnPage": 4,
+      "question": "מה הדין לגבי דיבור בזמן החזרה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "אסור לדבר"
+        },
+        {
+          "id": "B",
+          "text": "מותר בלחש"
+        },
+        {
+          "id": "C",
+          "text": "מותר בענייני חול"
+        },
+        {
+          "id": "D",
+          "text": "חובה לדבר"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "דיבור בזמן החזרה פוגע בכבוד התפילה."
+    },
+    {
+      "id": "p09_q5",
+      "page": 9,
+      "topic": "חזרת הש״ץ",
+      "questionNumberOnPage": 5,
+      "question": "מה נאמר בין מחיה המתים לקדושת ה' בחזרה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "קדושה"
+        },
+        {
+          "id": "B",
+          "text": "ברכת המזון"
+        },
+        {
+          "id": "C",
+          "text": "אשר יצר"
+        },
+        {
+          "id": "D",
+          "text": "ברכת הריח"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "שם נאמרת קדושה בחזרת הש״ץ."
+    },
+    {
+      "id": "p10_q1",
+      "page": 10,
+      "topic": "קדושה ומודים דרבנן",
+      "questionNumberOnPage": 1,
+      "question": "מה נוהגים לעשות בזמן פסוקי הקדושה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "להתרומם מעט ולכוון להתעלות"
+        },
+        {
+          "id": "B",
+          "text": "לשבת מיד"
+        },
+        {
+          "id": "C",
+          "text": "לאכול פירות"
+        },
+        {
+          "id": "D",
+          "text": "לצאת"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "זה מבטא רצון להתעלות כלפי מעלה."
+    },
+    {
+      "id": "p10_q2",
+      "page": 10,
+      "topic": "קדושה ומודים דרבנן",
+      "questionNumberOnPage": 2,
+      "question": "מה יעשה מתפלל שמונה עשרה כשהציבור הגיע לקדושה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ישתוק ויקשיב לחזן"
+        },
+        {
+          "id": "B",
+          "text": "ימשיך בקול"
+        },
+        {
+          "id": "C",
+          "text": "יענה הכול בקול"
+        },
+        {
+          "id": "D",
+          "text": "יצא החוצה"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "כך אינו מפסיק בדיבור ויוצא בשמיעה."
+    },
+    {
+      "id": "p10_q3",
+      "page": 10,
+      "topic": "קדושה ומודים דרבנן",
+      "questionNumberOnPage": 3,
+      "question": "מתי אומרים מודים דרבנן?",
+      "options": [
+        {
+          "id": "A",
+          "text": "כאשר החזן אומר מודים בחזרה"
+        },
+        {
+          "id": "B",
+          "text": "לפני אשר יצר"
+        },
+        {
+          "id": "C",
+          "text": "אחרי ברכת המזון"
+        },
+        {
+          "id": "D",
+          "text": "בקידוש"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "הציבור אומר זאת בברכת מודים של החזן."
+    },
+    {
+      "id": "p10_q4",
+      "page": 10,
+      "topic": "קדושה ומודים דרבנן",
+      "questionNumberOnPage": 4,
+      "question": "מה מבטאים במודים דרבנן?",
+      "options": [
+        {
+          "id": "A",
+          "text": "הודאה לה' גם על הזכות להודות לו"
+        },
+        {
+          "id": "B",
+          "text": "בקשה על מזון בלבד"
+        },
+        {
+          "id": "C",
+          "text": "ברכת ריח"
+        },
+        {
+          "id": "D",
+          "text": "בקשה על גשם בלבד"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "מודים גם על עצם האפשרות להודות."
+    },
+    {
+      "id": "p10_q5",
+      "page": 10,
+      "topic": "קדושה ומודים דרבנן",
+      "questionNumberOnPage": 5,
+      "question": "איך שוחים בתחילת מודים דרבנן?",
+      "options": [
+        {
+          "id": "A",
+          "text": "שחייה קלה והרכנת הראש"
+        },
+        {
+          "id": "B",
+          "text": "השתטחות מלאה"
+        },
+        {
+          "id": "C",
+          "text": "לא זזים"
+        },
+        {
+          "id": "D",
+          "text": "יושבים"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "אין זו כריעה מלאה כמו בעמידה."
+    },
+    {
+      "id": "p11_q1",
+      "page": 11,
+      "topic": "מאכלים בזמן הסעודה",
+      "questionNumberOnPage": 1,
+      "question": "מה נחשב מאכל שהוא חלק מעיקר הסעודה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "מאכל הבא ללפת את הפת או חלק מהארוחה"
+        },
+        {
+          "id": "B",
+          "text": "קינוח בלבד"
+        },
+        {
+          "id": "C",
+          "text": "פירות בלבד"
+        },
+        {
+          "id": "D",
+          "text": "ממתק אחרי ברכת המזון"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "מאכלי סעודה נטפלים ללחם."
+    },
+    {
+      "id": "p11_q2",
+      "page": 11,
+      "topic": "מאכלים בזמן הסעודה",
+      "questionNumberOnPage": 2,
+      "question": "איזה מאכל נחשב לעיתים קינוח ולא עיקר הסעודה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "פירות או גלידה בסוף הסעודה"
+        },
+        {
+          "id": "B",
+          "text": "בשר עם לחם"
+        },
+        {
+          "id": "C",
+          "text": "סלט בסעודה"
+        },
+        {
+          "id": "D",
+          "text": "מרק"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "קינוח אינו בהכרח חלק מהסעודה."
+    },
+    {
+      "id": "p11_q3",
+      "page": 11,
+      "topic": "מאכלים בזמן הסעודה",
+      "questionNumberOnPage": 3,
+      "question": "מה מברכים על קינוח בתוך הסעודה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ברכה ראשונה, וברכת המזון פוטרת אחרונה"
+        },
+        {
+          "id": "B",
+          "text": "המוציא תמיד"
+        },
+        {
+          "id": "C",
+          "text": "ברכת המזון לפניו"
+        },
+        {
+          "id": "D",
+          "text": "אין לברך כלל"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "הקינוח צריך ברכה ראשונה אך נפטר מברכה אחרונה."
+    },
+    {
+      "id": "p11_q4",
+      "page": 11,
+      "topic": "מאכלים בזמן הסעודה",
+      "questionNumberOnPage": 4,
+      "question": "מה צריך לאכול כדי שהמוציא יפטור את הסעודה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "כזית לחם"
+        },
+        {
+          "id": "B",
+          "text": "ירקות בלבד"
+        },
+        {
+          "id": "C",
+          "text": "פירות בלבד"
+        },
+        {
+          "id": "D",
+          "text": "יין בלבד"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "כזית לחם קובע את הסעודה."
+    },
+    {
+      "id": "p11_q5",
+      "page": 11,
+      "topic": "מאכלים בזמן הסעודה",
+      "questionNumberOnPage": 5,
+      "question": "מדוע יש הנוהגים לא לאכול קינוח לפני ברכת המזון?",
+      "options": [
+        {
+          "id": "A",
+          "text": "כדי להימנע מספקות בברכות"
+        },
+        {
+          "id": "B",
+          "text": "כי פירות אסורים"
+        },
+        {
+          "id": "C",
+          "text": "כי קינוח מחייב שמונה עשרה"
+        },
+        {
+          "id": "D",
+          "text": "כי אין לקינוח ברכה"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "הדבר מונע ספקות הלכתיים."
+    },
+    {
+      "id": "p12_q1",
+      "page": 12,
+      "topic": "טבלת מאכלים בסעודה",
+      "questionNumberOnPage": 1,
+      "question": "איזו דוגמה למאכל שהוא חלק מהסעודה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "סלטים ובשר"
+        },
+        {
+          "id": "B",
+          "text": "גלידה בלבד"
+        },
+        {
+          "id": "C",
+          "text": "סוכרייה"
+        },
+        {
+          "id": "D",
+          "text": "פירות לקינוח"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "אלו מאכלים הנאכלים כחלק מהארוחה."
+    },
+    {
+      "id": "p12_q2",
+      "page": 12,
+      "topic": "טבלת מאכלים בסעודה",
+      "questionNumberOnPage": 2,
+      "question": "איזו דוגמה למאכל שאינו חלק מעיקר הסעודה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "פירות ופיצוחים"
+        },
+        {
+          "id": "B",
+          "text": "בשר"
+        },
+        {
+          "id": "C",
+          "text": "גבינה"
+        },
+        {
+          "id": "D",
+          "text": "מרק"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "אלו נאכלים לרוב כקינוח."
+    },
+    {
+      "id": "p12_q3",
+      "page": 12,
+      "topic": "טבלת מאכלים בסעודה",
+      "questionNumberOnPage": 3,
+      "question": "מה דין ברכה אחרונה על קינוח בתוך הסעודה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ברכת המזון פוטרת אותו"
+        },
+        {
+          "id": "B",
+          "text": "מברכים תמיד אחרונה נפרדת"
+        },
+        {
+          "id": "C",
+          "text": "אין ברכה ראשונה"
+        },
+        {
+          "id": "D",
+          "text": "מברכים אשר יצר"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "ברכת המזון פוטרת ברכה אחרונה."
+    },
+    {
+      "id": "p12_q4",
+      "page": 12,
+      "topic": "טבלת מאכלים בסעודה",
+      "questionNumberOnPage": 4,
+      "question": "איזו ברכה פוטרת מאכלי סעודה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "המוציא"
+        },
+        {
+          "id": "B",
+          "text": "בורא מיני בשמים"
+        },
+        {
+          "id": "C",
+          "text": "הגפן בלבד"
+        },
+        {
+          "id": "D",
+          "text": "אשר יצר"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "המוציא על הלחם פוטר את המאכלים הטפלים לסעודה."
+    },
+    {
+      "id": "p12_q5",
+      "page": 12,
+      "topic": "טבלת מאכלים בסעודה",
+      "questionNumberOnPage": 5,
+      "question": "מה מטרת הטבלה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "לסכם הבחנה בין מאכלי סעודה לקינוחים"
+        },
+        {
+          "id": "B",
+          "text": "להחליף את הברכות"
+        },
+        {
+          "id": "C",
+          "text": "לעסוק בשחרית"
+        },
+        {
+          "id": "D",
+          "text": "להסביר רק ריח"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "הטבלה מארגנת את הדינים לפי סוג המאכל."
+    },
+    {
+      "id": "p13_q1",
+      "page": 13,
+      "topic": "הלכות ברכת המזון",
+      "questionNumberOnPage": 1,
+      "question": "מה מקור החיוב לברכת המזון מן התורה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ואכלת ושבעת וברכת"
+        },
+        {
+          "id": "B",
+          "text": "שמע ישראל"
+        },
+        {
+          "id": "C",
+          "text": "קדוש קדוש קדוש"
+        },
+        {
+          "id": "D",
+          "text": "רופא כל בשר"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "הפסוק מלמד לברך לאחר אכילה ושביעה."
+    },
+    {
+      "id": "p13_q2",
+      "page": 13,
+      "topic": "הלכות ברכת המזון",
+      "questionNumberOnPage": 2,
+      "question": "כמה ברכות יש בברכת המזון?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ארבע"
+        },
+        {
+          "id": "B",
+          "text": "שתיים"
+        },
+        {
+          "id": "C",
+          "text": "שלוש"
+        },
+        {
+          "id": "D",
+          "text": "עשר"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "הזן, הארץ, בונה ירושלים, הטוב והמטיב."
+    },
+    {
+      "id": "p13_q3",
+      "page": 13,
+      "topic": "הלכות ברכת המזון",
+      "questionNumberOnPage": 3,
+      "question": "מי תיקן את ברכת הזן?",
+      "options": [
+        {
+          "id": "A",
+          "text": "משה רבנו"
+        },
+        {
+          "id": "B",
+          "text": "יהושע"
+        },
+        {
+          "id": "C",
+          "text": "דוד ושלמה"
+        },
+        {
+          "id": "D",
+          "text": "חכמי יבנה"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "ברכת הזן נתקנה בזמן ירידת המן."
+    },
+    {
+      "id": "p13_q4",
+      "page": 13,
+      "topic": "הלכות ברכת המזון",
+      "questionNumberOnPage": 4,
+      "question": "על מה עוסקת בעיקר ברכת הארץ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "הודאה על ארץ ישראל"
+        },
+        {
+          "id": "B",
+          "text": "ריח טוב"
+        },
+        {
+          "id": "C",
+          "text": "שינה"
+        },
+        {
+          "id": "D",
+          "text": "ברקים"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "מודים על הארץ, הברית והתורה."
+    },
+    {
+      "id": "p13_q5",
+      "page": 13,
+      "topic": "הלכות ברכת המזון",
+      "questionNumberOnPage": 5,
+      "question": "היכן צריך לברך ברכת המזון לכתחילה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "במקום האכילה"
+        },
+        {
+          "id": "B",
+          "text": "רק בבית הכנסת"
+        },
+        {
+          "id": "C",
+          "text": "ברחוב"
+        },
+        {
+          "id": "D",
+          "text": "דווקא במקום אחר"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "ברכת המזון נאמרת במקום שבו אכל."
+    },
+    {
+      "id": "p14_q1",
+      "page": 14,
+      "topic": "ברכת המזון — נשים וקטנים",
+      "questionNumberOnPage": 1,
+      "question": "מה נאמר לגבי חיוב נשים בברכת המזון?",
+      "options": [
+        {
+          "id": "A",
+          "text": "יש דעות אם החיוב מן התורה או מדרבנן"
+        },
+        {
+          "id": "B",
+          "text": "פטורות תמיד"
+        },
+        {
+          "id": "C",
+          "text": "חייבות רק בשבת"
+        },
+        {
+          "id": "D",
+          "text": "רק על פירות"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "החומר מביא שתי שיטות."
+    },
+    {
+      "id": "p14_q2",
+      "page": 14,
+      "topic": "ברכת המזון — נשים וקטנים",
+      "questionNumberOnPage": 2,
+      "question": "לפי הדעה שנשים חייבות מן התורה, מה הדין בספק אם בירכה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "תברך מספק"
+        },
+        {
+          "id": "B",
+          "text": "לא תברך"
+        },
+        {
+          "id": "C",
+          "text": "תברך רק שהכל"
+        },
+        {
+          "id": "D",
+          "text": "תחזור לאכול"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "ספק דאורייתא לחומרא."
+    },
+    {
+      "id": "p14_q3",
+      "page": 14,
+      "topic": "ברכת המזון — נשים וקטנים",
+      "questionNumberOnPage": 3,
+      "question": "לפי הדעה שנשים חייבות מדרבנן, מה הדין בספק?",
+      "options": [
+        {
+          "id": "A",
+          "text": "לא תברך מספק"
+        },
+        {
+          "id": "B",
+          "text": "תברך תמיד"
+        },
+        {
+          "id": "C",
+          "text": "תברך רק ראשונה"
+        },
+        {
+          "id": "D",
+          "text": "תאמר קדושה"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "ספק דרבנן לקולא."
+    },
+    {
+      "id": "p14_q4",
+      "page": 14,
+      "topic": "ברכת המזון — נשים וקטנים",
+      "questionNumberOnPage": 4,
+      "question": "מה ההנחיה המעשית לגבי נשים?",
+      "options": [
+        {
+          "id": "A",
+          "text": "כל אישה תנהג כמנהג משפחתה"
+        },
+        {
+          "id": "B",
+          "text": "כמו שכנתה"
+        },
+        {
+          "id": "C",
+          "text": "לא לברך"
+        },
+        {
+          "id": "D",
+          "text": "רק ביום חול"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "הנוהג תלוי במנהג המשפחה."
+    },
+    {
+      "id": "p14_q5",
+      "page": 14,
+      "topic": "ברכת המזון — נשים וקטנים",
+      "questionNumberOnPage": 5,
+      "question": "מדוע קטנים מברכים ברכת המזון?",
+      "options": [
+        {
+          "id": "A",
+          "text": "מדין חינוך מדרבנן"
+        },
+        {
+          "id": "B",
+          "text": "כי חייבים מן התורה כמו מבוגרים"
+        },
+        {
+          "id": "C",
+          "text": "רק אם כהנים"
+        },
+        {
+          "id": "D",
+          "text": "רק על שבעת המינים"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "מחנכים קטנים למצוות."
+    },
+    {
+      "id": "p15_q1",
+      "page": 15,
+      "topic": "ברכת המזון — נוסח, הפסק, שכח וספק",
+      "questionNumberOnPage": 1,
+      "question": "מה צריך להזכיר בברכה השנייה של ברכת המזון?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ארץ חמדה טובה ורחבה, ברית ותורה"
+        },
+        {
+          "id": "B",
+          "text": "קדושה ומודים"
+        },
+        {
+          "id": "C",
+          "text": "ברכת הריח"
+        },
+        {
+          "id": "D",
+          "text": "אשר יצר"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "אלה עיקרי ברכת הארץ."
+    },
+    {
+      "id": "p15_q2",
+      "page": 15,
+      "topic": "ברכת המזון — נוסח, הפסק, שכח וספק",
+      "questionNumberOnPage": 2,
+      "question": "מה צריך להזכיר בברכה השלישית?",
+      "options": [
+        {
+          "id": "A",
+          "text": "מלכות בית דוד"
+        },
+        {
+          "id": "B",
+          "text": "עצי בשמים"
+        },
+        {
+          "id": "C",
+          "text": "הגפן בלבד"
+        },
+        {
+          "id": "D",
+          "text": "תפילת הדרך"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "הברכה עוסקת בבניין ירושלים ומלכות דוד."
+    },
+    {
+      "id": "p15_q3",
+      "page": 15,
+      "topic": "ברכת המזון — נוסח, הפסק, שכח וספק",
+      "questionNumberOnPage": 3,
+      "question": "האם מותר להפסיק באמצע ברכת המזון לומר שלום?",
+      "options": [
+        {
+          "id": "A",
+          "text": "לא"
+        },
+        {
+          "id": "B",
+          "text": "כן תמיד"
+        },
+        {
+          "id": "C",
+          "text": "רק באמצע הראשונה"
+        },
+        {
+          "id": "D",
+          "text": "רק לילדים"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "אין להפסיק באמצע ברכת המזון."
+    },
+    {
+      "id": "p15_q4",
+      "page": 15,
+      "topic": "ברכת המזון — נוסח, הפסק, שכח וספק",
+      "questionNumberOnPage": 4,
+      "question": "עד מתי מי ששכח לברך יכול לברך?",
+      "options": [
+        {
+          "id": "A",
+          "text": "כל עוד אינו רעב מאותה אכילה"
+        },
+        {
+          "id": "B",
+          "text": "רק תוך דקה"
+        },
+        {
+          "id": "C",
+          "text": "עד סוף היום תמיד"
+        },
+        {
+          "id": "D",
+          "text": "לעולם לא"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "הברכה עדיין שייכת לאכילה כל עוד לא התעכל לגמרי."
+    },
+    {
+      "id": "p15_q5",
+      "page": 15,
+      "topic": "ברכת המזון — נוסח, הפסק, שכח וספק",
+      "questionNumberOnPage": 5,
+      "question": "מי שאכל ושבע ומסופק אם בירך — מה הדין?",
+      "options": [
+        {
+          "id": "A",
+          "text": "צריך לברך"
+        },
+        {
+          "id": "B",
+          "text": "לא יברך"
+        },
+        {
+          "id": "C",
+          "text": "יברך רק ראשונה"
+        },
+        {
+          "id": "D",
+          "text": "יברך ריח"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "ספק דאורייתא לחומרא."
+    },
+    {
+      "id": "p16_q1",
+      "page": 16,
+      "topic": "ברכת חמשת מיני דגן",
+      "questionNumberOnPage": 1,
+      "question": "מהם חמשת מיני דגן?",
+      "options": [
+        {
+          "id": "A",
+          "text": "חיטה, שעורה, כוסמין, שיבולת שועל ושיפון"
+        },
+        {
+          "id": "B",
+          "text": "תפוח, אגס, בננה, ענבים ורימון"
+        },
+        {
+          "id": "C",
+          "text": "אורז, תירס, עדשים, פול וחומוס"
+        },
+        {
+          "id": "D",
+          "text": "שקדים, אגוזים, פיסטוקים, גרעינים ובוטנים"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "אלו מיני הדגן שעליהם דינים מיוחדים."
+    },
+    {
+      "id": "p16_q2",
+      "page": 16,
+      "topic": "ברכת חמשת מיני דגן",
+      "questionNumberOnPage": 2,
+      "question": "מה מברכים לפני מאפה דגן שאינו לחם רגיל?",
+      "options": [
+        {
+          "id": "A",
+          "text": "בורא מיני מזונות"
+        },
+        {
+          "id": "B",
+          "text": "בורא פרי העץ"
+        },
+        {
+          "id": "C",
+          "text": "שהכל"
+        },
+        {
+          "id": "D",
+          "text": "בורא עצי בשמים"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "מאפה כזה לרוב ברכתו מזונות."
+    },
+    {
+      "id": "p16_q3",
+      "page": 16,
+      "topic": "ברכת חמשת מיני דגן",
+      "questionNumberOnPage": 3,
+      "question": "מהי פת הבאה בכיסנין?",
+      "options": [
+        {
+          "id": "A",
+          "text": "מאפה דגן שאינו לחם רגיל"
+        },
+        {
+          "id": "B",
+          "text": "כל פרי משבעת המינים"
+        },
+        {
+          "id": "C",
+          "text": "כל ירק מבושל"
+        },
+        {
+          "id": "D",
+          "text": "כל משקה"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "זהו מאפה מיוחד שברכתו משתנה בקביעת סעודה."
+    },
+    {
+      "id": "p16_q4",
+      "page": 16,
+      "topic": "ברכת חמשת מיני דגן",
+      "questionNumberOnPage": 4,
+      "question": "מה קורה אם קובעים סעודה על פת הבאה בכיסנין?",
+      "options": [
+        {
+          "id": "A",
+          "text": "מברכים המוציא וברכת המזון"
+        },
+        {
+          "id": "B",
+          "text": "בורא נפשות בלבד"
+        },
+        {
+          "id": "C",
+          "text": "לא מברכים"
+        },
+        {
+          "id": "D",
+          "text": "בורא פרי האדמה"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "קביעת סעודה נותנת לו דין לחם."
+    },
+    {
+      "id": "p16_q5",
+      "page": 16,
+      "topic": "ברכת חמשת מיני דגן",
+      "questionNumberOnPage": 5,
+      "question": "מה מברכים על פיצה לפי החומר?",
+      "options": [
+        {
+          "id": "A",
+          "text": "המוציא וברכת המזון"
+        },
+        {
+          "id": "B",
+          "text": "שהכל ובורא נפשות"
+        },
+        {
+          "id": "C",
+          "text": "בורא פרי העץ"
+        },
+        {
+          "id": "D",
+          "text": "בורא עצי בשמים"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "פיצה נאכלת לשביעה כסעודה."
+    },
+    {
+      "id": "p17_q1",
+      "page": 17,
+      "topic": "חמשת מיני דגן — תבשיל וגרגרים",
+      "questionNumberOnPage": 1,
+      "question": "מה מברכים על פסטה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "בורא מיני מזונות ועל המחיה"
+        },
+        {
+          "id": "B",
+          "text": "בורא פרי האדמה ובורא נפשות"
+        },
+        {
+          "id": "C",
+          "text": "שהכל ובורא נפשות"
+        },
+        {
+          "id": "D",
+          "text": "המוציא תמיד"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "פסטה היא תבשיל דגן."
+    },
+    {
+      "id": "p17_q2",
+      "page": 17,
+      "topic": "חמשת מיני דגן — תבשיל וגרגרים",
+      "questionNumberOnPage": 2,
+      "question": "האם קביעת סעודה על פסטה משנה לברכת המוציא?",
+      "options": [
+        {
+          "id": "A",
+          "text": "לא"
+        },
+        {
+          "id": "B",
+          "text": "כן תמיד"
+        },
+        {
+          "id": "C",
+          "text": "רק בשבת"
+        },
+        {
+          "id": "D",
+          "text": "רק אם היא קרה"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "תבשיל דגן נשאר מזונות ועל המחיה."
+    },
+    {
+      "id": "p17_q3",
+      "page": 17,
+      "topic": "חמשת מיני דגן — תבשיל וגרגרים",
+      "questionNumberOnPage": 3,
+      "question": "מה מברכים על גרגרים שלמים שלוקים מעט או קלויים?",
+      "options": [
+        {
+          "id": "A",
+          "text": "בורא פרי האדמה ובורא נפשות"
+        },
+        {
+          "id": "B",
+          "text": "המוציא"
+        },
+        {
+          "id": "C",
+          "text": "בורא פרי העץ"
+        },
+        {
+          "id": "D",
+          "text": "בורא עצי בשמים"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "כשהם נשארים גרגרים, דינם אדמה."
+    },
+    {
+      "id": "p17_q4",
+      "page": 17,
+      "topic": "חמשת מיני דגן — תבשיל וגרגרים",
+      "questionNumberOnPage": 4,
+      "question": "מה מברכים על גריסים או קוואקר שהתבשלו הרבה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "בורא מיני מזונות ועל המחיה"
+        },
+        {
+          "id": "B",
+          "text": "בורא פרי העץ"
+        },
+        {
+          "id": "C",
+          "text": "שהכל בלבד"
+        },
+        {
+          "id": "D",
+          "text": "בורא מיני בשמים"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "כשהם תבשיל רך של דגן דינם מזונות."
+    },
+    {
+      "id": "p17_q5",
+      "page": 17,
+      "topic": "חמשת מיני דגן — תבשיל וגרגרים",
+      "questionNumberOnPage": 5,
+      "question": "מה העיקרון בדיני דגן?",
+      "options": [
+        {
+          "id": "A",
+          "text": "הברכה תלויה בצורת ההכנה והאכילה"
+        },
+        {
+          "id": "B",
+          "text": "כל דגן שהכל"
+        },
+        {
+          "id": "C",
+          "text": "כל דגן המוציא"
+        },
+        {
+          "id": "D",
+          "text": "אין ברכה אחרונה"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "דגן משתנה לפי צורתו."
+    },
+    {
+      "id": "p18_q1",
+      "page": 18,
+      "topic": "סיכום חמשת מיני דגן",
+      "questionNumberOnPage": 1,
+      "question": "איזה מאכל דגן הוא החשוב ביותר?",
+      "options": [
+        {
+          "id": "A",
+          "text": "לחם"
+        },
+        {
+          "id": "B",
+          "text": "גרגרים קלויים"
+        },
+        {
+          "id": "C",
+          "text": "שעורים חיים"
+        },
+        {
+          "id": "D",
+          "text": "פירות"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "לחם הוא עיקר הסעודה."
+    },
+    {
+      "id": "p18_q2",
+      "page": 18,
+      "topic": "סיכום חמשת מיני דגן",
+      "questionNumberOnPage": 2,
+      "question": "מה ההבדל בין לחם למאפה מזונות רגיל?",
+      "options": [
+        {
+          "id": "A",
+          "text": "לחם — המוציא וברכת המזון; מאפה — מזונות ועל המחיה"
+        },
+        {
+          "id": "B",
+          "text": "אין הבדל"
+        },
+        {
+          "id": "C",
+          "text": "מאפה חשוב יותר"
+        },
+        {
+          "id": "D",
+          "text": "לחם ברכתו העץ"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "ברכותיהם שונות לפי מעמדם."
+    },
+    {
+      "id": "p18_q3",
+      "page": 18,
+      "topic": "סיכום חמשת מיני דגן",
+      "questionNumberOnPage": 3,
+      "question": "מתי מאפה מזונות מקבל דין לחם?",
+      "options": [
+        {
+          "id": "A",
+          "text": "בקביעת סעודה"
+        },
+        {
+          "id": "B",
+          "text": "כשנאכל בעמידה"
+        },
+        {
+          "id": "C",
+          "text": "בלילה"
+        },
+        {
+          "id": "D",
+          "text": "כשהוא קר"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "קביעת סעודה משנה את דינו."
+    },
+    {
+      "id": "p18_q4",
+      "page": 18,
+      "topic": "סיכום חמשת מיני דגן",
+      "questionNumberOnPage": 4,
+      "question": "מה ברכה אחרונה על מאפה מזונות רגיל?",
+      "options": [
+        {
+          "id": "A",
+          "text": "על המחיה"
+        },
+        {
+          "id": "B",
+          "text": "בורא נפשות"
+        },
+        {
+          "id": "C",
+          "text": "ברכת המזון"
+        },
+        {
+          "id": "D",
+          "text": "אין ברכה"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "מזונות מדגן מחייב על המחיה."
+    },
+    {
+      "id": "p18_q5",
+      "page": 18,
+      "topic": "סיכום חמשת מיני דגן",
+      "questionNumberOnPage": 5,
+      "question": "למה חשוב לדעת את צורת הדגן?",
+      "options": [
+        {
+          "id": "A",
+          "text": "כי אותה תבואה יכולה לקבל ברכות שונות"
+        },
+        {
+          "id": "B",
+          "text": "כי דגנים אסורים"
+        },
+        {
+          "id": "C",
+          "text": "כי אין ברכות על דגן"
+        },
+        {
+          "id": "D",
+          "text": "כי דגן שייך רק לריח"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "לחם, מאפה, תבשיל וגרגרים שונים בדינם."
+    },
+    {
+      "id": "p19_q1",
+      "page": 19,
+      "topic": "ברכה ראשונה ואחרונה על מאכלים שונים",
+      "questionNumberOnPage": 1,
+      "question": "על מה נאמרת מעין שלוש?",
+      "options": [
+        {
+          "id": "A",
+          "text": "דגן, יין ופירות שבעת המינים"
+        },
+        {
+          "id": "B",
+          "text": "כל ירק"
+        },
+        {
+          "id": "C",
+          "text": "מים בלבד"
+        },
+        {
+          "id": "D",
+          "text": "ריח טוב"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "אלה מאכלים חשובים שקיבלו ברכה אחרונה מיוחדת."
+    },
+    {
+      "id": "p19_q2",
+      "page": 19,
+      "topic": "ברכה ראשונה ואחרונה על מאכלים שונים",
+      "questionNumberOnPage": 2,
+      "question": "מדוע נקראת הברכה מעין שלוש?",
+      "options": [
+        {
+          "id": "A",
+          "text": "כי רמוזות בה שלוש הברכות הראשונות של ברכת המזון"
+        },
+        {
+          "id": "B",
+          "text": "כי נאמרת שלוש פעמים ביום"
+        },
+        {
+          "id": "C",
+          "text": "כי יש בה שלוש מילים"
+        },
+        {
+          "id": "D",
+          "text": "כי נאמרת בשלושה אנשים"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "היא תמצית של ברכת המזון."
+    },
+    {
+      "id": "p19_q3",
+      "page": 19,
+      "topic": "ברכה ראשונה ואחרונה על מאכלים שונים",
+      "questionNumberOnPage": 3,
+      "question": "מה מברכים לאחר פירות שבעת המינים?",
+      "options": [
+        {
+          "id": "A",
+          "text": "מעין שלוש"
+        },
+        {
+          "id": "B",
+          "text": "בורא נפשות תמיד"
+        },
+        {
+          "id": "C",
+          "text": "ברכת המזון תמיד"
+        },
+        {
+          "id": "D",
+          "text": "אשר יצר"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "יש להם ברכה אחרונה מיוחדת."
+    },
+    {
+      "id": "p19_q4",
+      "page": 19,
+      "topic": "ברכה ראשונה ואחרונה על מאכלים שונים",
+      "questionNumberOnPage": 4,
+      "question": "מה מברכים לפני יין?",
+      "options": [
+        {
+          "id": "A",
+          "text": "בורא פרי הגפן"
+        },
+        {
+          "id": "B",
+          "text": "בורא פרי העץ"
+        },
+        {
+          "id": "C",
+          "text": "שהכל"
+        },
+        {
+          "id": "D",
+          "text": "בורא מיני בשמים"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "לגפן יש ברכה מיוחדת."
+    },
+    {
+      "id": "p19_q5",
+      "page": 19,
+      "topic": "ברכה ראשונה ואחרונה על מאכלים שונים",
+      "questionNumberOnPage": 5,
+      "question": "אם אכל פסטה, תמרים ושתה יין — כמה ברכות מעין שלוש?",
+      "options": [
+        {
+          "id": "A",
+          "text": "אחת שמשלבת את כולם"
+        },
+        {
+          "id": "B",
+          "text": "שלוש נפרדות תמיד"
+        },
+        {
+          "id": "C",
+          "text": "לא מברך"
+        },
+        {
+          "id": "D",
+          "text": "ברכת המזון"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "משלבים את כל הסוגים בברכה אחת."
+    },
+    {
+      "id": "p20_q1",
+      "page": 20,
+      "topic": "נוסח מעין שלוש",
+      "questionNumberOnPage": 1,
+      "question": "איזה נוסח מתאים לדגן?",
+      "options": [
+        {
+          "id": "A",
+          "text": "על המחיה ועל הכלכלה"
+        },
+        {
+          "id": "B",
+          "text": "על העץ ועל פרי העץ"
+        },
+        {
+          "id": "C",
+          "text": "על הגפן ועל פרי הגפן"
+        },
+        {
+          "id": "D",
+          "text": "בורא מיני בשמים"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "זה נוסח הדגן במעין שלוש."
+    },
+    {
+      "id": "p20_q2",
+      "page": 20,
+      "topic": "נוסח מעין שלוש",
+      "questionNumberOnPage": 2,
+      "question": "איזה נוסח מתאים ליין?",
+      "options": [
+        {
+          "id": "A",
+          "text": "על הגפן ועל פרי הגפן"
+        },
+        {
+          "id": "B",
+          "text": "על המחיה"
+        },
+        {
+          "id": "C",
+          "text": "בורא פרי האדמה"
+        },
+        {
+          "id": "D",
+          "text": "רופא כל בשר"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "היין קשור לגפן."
+    },
+    {
+      "id": "p20_q3",
+      "page": 20,
+      "topic": "נוסח מעין שלוש",
+      "questionNumberOnPage": 3,
+      "question": "איזה נוסח מתאים לפירות שבעת המינים?",
+      "options": [
+        {
+          "id": "A",
+          "text": "על העץ ועל פרי העץ"
+        },
+        {
+          "id": "B",
+          "text": "על המחיה"
+        },
+        {
+          "id": "C",
+          "text": "על הגפן"
+        },
+        {
+          "id": "D",
+          "text": "אשר יצר"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "הנוסח עוסק בעץ ופירותיו."
+    },
+    {
+      "id": "p20_q4",
+      "page": 20,
+      "topic": "נוסח מעין שלוש",
+      "questionNumberOnPage": 4,
+      "question": "מה ההבדל בנוסח בין פירות ארץ ישראל לחו״ל?",
+      "options": [
+        {
+          "id": "A",
+          "text": "בארץ: על פירותיה; בחו״ל: על הפירות"
+        },
+        {
+          "id": "B",
+          "text": "אין הבדל"
+        },
+        {
+          "id": "C",
+          "text": "בחו״ל לא מברכים"
+        },
+        {
+          "id": "D",
+          "text": "בארץ מברכים מזון"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "החתימה משתנה לפי מקום הגידול."
+    },
+    {
+      "id": "p20_q5",
+      "page": 20,
+      "topic": "נוסח מעין שלוש",
+      "questionNumberOnPage": 5,
+      "question": "למה חשוב לדייק בנוסח מעין שלוש?",
+      "options": [
+        {
+          "id": "A",
+          "text": "כי הנוסח משתנה לפי המאכל ולעיתים לפי מקום הגידול"
+        },
+        {
+          "id": "B",
+          "text": "כי אין משמעות לנוסח"
+        },
+        {
+          "id": "C",
+          "text": "כי כולם אותו נוסח"
+        },
+        {
+          "id": "D",
+          "text": "כי נאמרת רק בשבת"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "דגן, יין ופירות דורשים נוסחים שונים."
+    },
+    {
+      "id": "p21_q1",
+      "page": 21,
+      "topic": "מדיני ברכות הנהנין",
+      "questionNumberOnPage": 1,
+      "question": "מה צריך לעשות לפני שמברכים?",
+      "options": [
+        {
+          "id": "A",
+          "text": "לכוון ולהבין מה מברכים"
+        },
+        {
+          "id": "B",
+          "text": "לברך במהירות בלי לחשוב"
+        },
+        {
+          "id": "C",
+          "text": "לדבר"
+        },
+        {
+          "id": "D",
+          "text": "להחזיק מאחורי הגב"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "ברכה צריכה כוונה והבנה."
+    },
+    {
+      "id": "p21_q2",
+      "page": 21,
+      "topic": "מדיני ברכות הנהנין",
+      "questionNumberOnPage": 2,
+      "question": "מי שטעה וברך אדמה על פרי עץ — מה הדין?",
+      "options": [
+        {
+          "id": "A",
+          "text": "יצא ידי חובה"
+        },
+        {
+          "id": "B",
+          "text": "לא יצא"
+        },
+        {
+          "id": "C",
+          "text": "חייב שהכל"
+        },
+        {
+          "id": "D",
+          "text": "צריך ברכת הריח"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "פרי העץ גדל מן האדמה ולכן יצא בדיעבד."
+    },
+    {
+      "id": "p21_q3",
+      "page": 21,
+      "topic": "מדיני ברכות הנהנין",
+      "questionNumberOnPage": 3,
+      "question": "מי שטעה וברך העץ על פרי אדמה — מה הדין?",
+      "options": [
+        {
+          "id": "A",
+          "text": "לא יצא ידי חובה"
+        },
+        {
+          "id": "B",
+          "text": "יצא תמיד"
+        },
+        {
+          "id": "C",
+          "text": "יצא אם מתוק"
+        },
+        {
+          "id": "D",
+          "text": "אין ברכה על ירקות"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "פרי אדמה אינו פרי עץ."
+    },
+    {
+      "id": "p21_q4",
+      "page": 21,
+      "topic": "מדיני ברכות הנהנין",
+      "questionNumberOnPage": 4,
+      "question": "מי שברך שהכל על מאכל שברכתו אחרת — מה הדין?",
+      "options": [
+        {
+          "id": "A",
+          "text": "יצא בדיעבד"
+        },
+        {
+          "id": "B",
+          "text": "לא יצא לעולם"
+        },
+        {
+          "id": "C",
+          "text": "חייב ברכת המזון"
+        },
+        {
+          "id": "D",
+          "text": "חייב להריח"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "שהכל היא ברכה כללית בדיעבד."
+    },
+    {
+      "id": "p21_q5",
+      "page": 21,
+      "topic": "מדיני ברכות הנהנין",
+      "questionNumberOnPage": 5,
+      "question": "בספק העץ או האדמה ואין אפשרות לברר — מה מברכים?",
+      "options": [
+        {
+          "id": "A",
+          "text": "בורא פרי האדמה"
+        },
+        {
+          "id": "B",
+          "text": "בורא פרי העץ"
+        },
+        {
+          "id": "C",
+          "text": "לא אוכלים לעולם"
+        },
+        {
+          "id": "D",
+          "text": "ברכת המזון"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "האדמה מועילה גם לעץ בדיעבד."
+    },
+    {
+      "id": "p22_q1",
+      "page": 22,
+      "topic": "פרי העץ ופרי האדמה",
+      "questionNumberOnPage": 1,
+      "question": "מה נחשב עץ לעניין ברכות?",
+      "options": [
+        {
+          "id": "A",
+          "text": "צמח שהגזע והענפים מתקיימים משנה לשנה"
+        },
+        {
+          "id": "B",
+          "text": "כל צמח חד־שנתי"
+        },
+        {
+          "id": "C",
+          "text": "כל ירק עם עלים"
+        },
+        {
+          "id": "D",
+          "text": "כל פרי מתוק"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "קיום הגזע והענפים מגדיר עץ."
+    },
+    {
+      "id": "p22_q2",
+      "page": 22,
+      "topic": "פרי העץ ופרי האדמה",
+      "questionNumberOnPage": 2,
+      "question": "מה מברכים על פרי הגדל על עץ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "בורא פרי העץ"
+        },
+        {
+          "id": "B",
+          "text": "בורא פרי האדמה"
+        },
+        {
+          "id": "C",
+          "text": "שהכל"
+        },
+        {
+          "id": "D",
+          "text": "בורא מיני בשמים"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "זו ברכת פרי העץ."
+    },
+    {
+      "id": "p22_q3",
+      "page": 22,
+      "topic": "פרי העץ ופרי האדמה",
+      "questionNumberOnPage": 3,
+      "question": "מה נחשב בדרך כלל פרי האדמה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "פירות של צמח חד־שנתי או גבעול המתחדש מהשורש"
+        },
+        {
+          "id": "B",
+          "text": "כל דבר על עץ קבוע"
+        },
+        {
+          "id": "C",
+          "text": "כל משקה"
+        },
+        {
+          "id": "D",
+          "text": "כל ריח"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "צמח שאינו עץ לעניין ברכות מקבל אדמה."
+    },
+    {
+      "id": "p22_q4",
+      "page": 22,
+      "topic": "פרי העץ ופרי האדמה",
+      "questionNumberOnPage": 4,
+      "question": "מה הדוגמה הבולטת לפרי שברכתו אדמה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "בננה"
+        },
+        {
+          "id": "B",
+          "text": "תפוח"
+        },
+        {
+          "id": "C",
+          "text": "ענבים"
+        },
+        {
+          "id": "D",
+          "text": "זית"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "בננה אינה נחשבת פרי עץ לעניין ברכה."
+    },
+    {
+      "id": "p22_q5",
+      "page": 22,
+      "topic": "פרי העץ ופרי האדמה",
+      "questionNumberOnPage": 5,
+      "question": "מה הברכה האחרונה על רוב פירות שאינם משבעת המינים?",
+      "options": [
+        {
+          "id": "A",
+          "text": "בורא נפשות"
+        },
+        {
+          "id": "B",
+          "text": "ברכת המזון"
+        },
+        {
+          "id": "C",
+          "text": "על המחיה"
+        },
+        {
+          "id": "D",
+          "text": "מודים דרבנן"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "רוב הפירות מחייבים בורא נפשות לאחריהם."
+    },
+    {
+      "id": "p23_q1",
+      "page": 23,
+      "topic": "ברכת הריח",
+      "questionNumberOnPage": 1,
+      "question": "מדוע מברכים על ריח טוב?",
+      "options": [
+        {
+          "id": "A",
+          "text": "כי הנשמה נהנית ממנו"
+        },
+        {
+          "id": "B",
+          "text": "כי הוא משביע"
+        },
+        {
+          "id": "C",
+          "text": "כי הוא לחם"
+        },
+        {
+          "id": "D",
+          "text": "כי הוא תמיד משבעת המינים"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "חז״ל קישרו ריח להנאת הנשמה."
+    },
+    {
+      "id": "p23_q2",
+      "page": 23,
+      "topic": "ברכת הריח",
+      "questionNumberOnPage": 2,
+      "question": "מה מברכים על ריח היוצא מעץ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "בורא עצי בשמים"
+        },
+        {
+          "id": "B",
+          "text": "בורא עשבי בשמים"
+        },
+        {
+          "id": "C",
+          "text": "הנותן ריח טוב בפירות"
+        },
+        {
+          "id": "D",
+          "text": "המוציא"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "ריח מצמח עצי — עצי בשמים."
+    },
+    {
+      "id": "p23_q3",
+      "page": 23,
+      "topic": "ברכת הריח",
+      "questionNumberOnPage": 3,
+      "question": "מה מברכים על ריח היוצא מעשב?",
+      "options": [
+        {
+          "id": "A",
+          "text": "בורא עשבי בשמים"
+        },
+        {
+          "id": "B",
+          "text": "בורא פרי הגפן"
+        },
+        {
+          "id": "C",
+          "text": "ברכת המזון"
+        },
+        {
+          "id": "D",
+          "text": "אשר יצר"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "מקור עשבי מחייב עשבי בשמים."
+    },
+    {
+      "id": "p23_q4",
+      "page": 23,
+      "topic": "ברכת הריח",
+      "questionNumberOnPage": 4,
+      "question": "מה מברכים על ריח היוצא מפרי?",
+      "options": [
+        {
+          "id": "A",
+          "text": "הנותן ריח טוב בפירות"
+        },
+        {
+          "id": "B",
+          "text": "בורא פרי העץ"
+        },
+        {
+          "id": "C",
+          "text": "על המחיה"
+        },
+        {
+          "id": "D",
+          "text": "רוקע הארץ"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "זו ברכה מיוחדת לריח הפרי."
+    },
+    {
+      "id": "p23_q5",
+      "page": 23,
+      "topic": "ברכת הריח",
+      "questionNumberOnPage": 5,
+      "question": "מה מברכים כאשר לא ברור מקור הריח?",
+      "options": [
+        {
+          "id": "A",
+          "text": "בורא מיני בשמים"
+        },
+        {
+          "id": "B",
+          "text": "המוציא"
+        },
+        {
+          "id": "C",
+          "text": "בורא פרי האדמה"
+        },
+        {
+          "id": "D",
+          "text": "ברכת התורה"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "זו ברכה כללית למיני בשמים."
+    },
+    {
+      "id": "p24_q1",
+      "page": 24,
+      "topic": "המשך ברכת הריח",
+      "questionNumberOnPage": 1,
+      "question": "מי שטעה וברך בורא מיני בשמים על עצי/עשבי — מה הדין?",
+      "options": [
+        {
+          "id": "A",
+          "text": "יצא ידי חובה"
+        },
+        {
+          "id": "B",
+          "text": "לא יצא לעולם"
+        },
+        {
+          "id": "C",
+          "text": "חייב ברכת המזון"
+        },
+        {
+          "id": "D",
+          "text": "חייב קדושה"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "מיני בשמים היא ברכה כללית."
+    },
+    {
+      "id": "p24_q2",
+      "page": 24,
+      "topic": "המשך ברכת הריח",
+      "questionNumberOnPage": 2,
+      "question": "האם מברכים על פרי שנלקח לאכילה ולא להרחה?",
+      "options": [
+        {
+          "id": "A",
+          "text": "לא"
+        },
+        {
+          "id": "B",
+          "text": "כן תמיד"
+        },
+        {
+          "id": "C",
+          "text": "רק בשבת"
+        },
+        {
+          "id": "D",
+          "text": "רק אם משבעת המינים"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "ברכת הריח תלויה בכוונת ההרחה."
+    },
+    {
+      "id": "p24_q3",
+      "page": 24,
+      "topic": "המשך ברכת הריח",
+      "questionNumberOnPage": 3,
+      "question": "האם מברכים על ריח שנשאר בבגד או ביד?",
+      "options": [
+        {
+          "id": "A",
+          "text": "לא"
+        },
+        {
+          "id": "B",
+          "text": "כן תמיד"
+        },
+        {
+          "id": "C",
+          "text": "רק אם חזק"
+        },
+        {
+          "id": "D",
+          "text": "רק אם יקר"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "מברכים על מקור הריח כשהוא לפני האדם."
+    },
+    {
+      "id": "p24_q4",
+      "page": 24,
+      "topic": "המשך ברכת הריח",
+      "questionNumberOnPage": 4,
+      "question": "מדוע לרוב אין מברכים על בשמים סינתטיים?",
+      "options": [
+        {
+          "id": "A",
+          "text": "כי אינם מתמצית צמחית אמיתית"
+        },
+        {
+          "id": "B",
+          "text": "כי אין להם ריח"
+        },
+        {
+          "id": "C",
+          "text": "כי הם מאכל"
+        },
+        {
+          "id": "D",
+          "text": "כי הם מחייבים מזון"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "החומר מבחין בין מקור טבעי לסינתטי."
+    },
+    {
+      "id": "p24_q5",
+      "page": 24,
+      "topic": "המשך ברכת הריח",
+      "questionNumberOnPage": 5,
+      "question": "מתי אין מברכים על ריח שנועד להעביר ריח רע?",
+      "options": [
+        {
+          "id": "A",
+          "text": "כאשר מטרתו רק סילוק ריח רע"
+        },
+        {
+          "id": "B",
+          "text": "כאשר מריחים הדס"
+        },
+        {
+          "id": "C",
+          "text": "כאשר מריחים עשב"
+        },
+        {
+          "id": "D",
+          "text": "כאשר מריחים פרי לשם ריח"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "הברכה היא על הנאה מהריח ולא על נטרול ריח."
+    },
+    {
+      "id": "p25_q1",
+      "page": 25,
+      "topic": "דיני קדימה בברכות",
+      "questionNumberOnPage": 1,
+      "question": "מה סדר הקדימה מג״ע א״ש?",
+      "options": [
+        {
+          "id": "A",
+          "text": "מזונות, גפן, עץ, אדמה, שהכל"
+        },
+        {
+          "id": "B",
+          "text": "שהכל, אדמה, עץ, גפן, מזונות"
+        },
+        {
+          "id": "C",
+          "text": "עץ, אדמה, מזונות, שהכל, גפן"
+        },
+        {
+          "id": "D",
+          "text": "גפן, שהכל, אדמה, עץ, מזונות"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "ראשי התיבות מסמנים את סדר הקדימה."
+    },
+    {
+      "id": "p25_q2",
+      "page": 25,
+      "topic": "דיני קדימה בברכות",
+      "questionNumberOnPage": 2,
+      "question": "מדוע פירות שבעת המינים קודמים לפירות אחרים?",
+      "options": [
+        {
+          "id": "A",
+          "text": "כי התורה שיבחה בהם את ארץ ישראל"
+        },
+        {
+          "id": "B",
+          "text": "כי אין להם ברכה אחרונה"
+        },
+        {
+          "id": "C",
+          "text": "כי תמיד מתוקים יותר"
+        },
+        {
+          "id": "D",
+          "text": "כי אסור לאכול אחרים"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "חשיבותם נובעת משבח הארץ בתורה."
+    },
+    {
+      "id": "p25_q3",
+      "page": 25,
+      "topic": "דיני קדימה בברכות",
+      "questionNumberOnPage": 3,
+      "question": "מי קודם: זיתים ותמרים או ענבים?",
+      "options": [
+        {
+          "id": "A",
+          "text": "זיתים ותמרים"
+        },
+        {
+          "id": "B",
+          "text": "ענבים תמיד"
+        },
+        {
+          "id": "C",
+          "text": "רימונים תמיד"
+        },
+        {
+          "id": "D",
+          "text": "אין קדימה"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "הקרוב יותר למילה ארץ קודם."
+    },
+    {
+      "id": "p25_q4",
+      "page": 25,
+      "topic": "דיני קדימה בברכות",
+      "questionNumberOnPage": 4,
+      "question": "מדוע יין קודם לזיתים ותמרים?",
+      "options": [
+        {
+          "id": "A",
+          "text": "כי ליין ברכה מיוחדת: בורא פרי הגפן"
+        },
+        {
+          "id": "B",
+          "text": "כי יין הוא לחם"
+        },
+        {
+          "id": "C",
+          "text": "כי אין מברכים על זיתים"
+        },
+        {
+          "id": "D",
+          "text": "כי יין אינו משבעת המינים"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "ברכת הגפן מיוחדת וחשובה."
+    },
+    {
+      "id": "p25_q5",
+      "page": 25,
+      "topic": "דיני קדימה בברכות",
+      "questionNumberOnPage": 5,
+      "question": "מדוע בקידוש מכסים את הפת או המזונות?",
+      "options": [
+        {
+          "id": "A",
+          "text": "כי מקדימים את ברכת היין אף שבדרך כלל הם קודמים"
+        },
+        {
+          "id": "B",
+          "text": "כי אסור לראות לחם"
+        },
+        {
+          "id": "C",
+          "text": "כי אין מברכים על יין"
+        },
+        {
+          "id": "D",
+          "text": "כי הפת אינה כשרה"
+        }
+      ],
+      "correctOptionId": "A",
+      "correctOptionIndex": 0,
+      "explanation": "הכיסוי מבטא שהיין קודם בקידוש למרות סדר הקדימה הרגיל."
+    }
+  ]
+}
